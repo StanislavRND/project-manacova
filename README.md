@@ -33,8 +33,9 @@ npm install
 npm run dev
 ```
 4. **Открыть в браузере**:
+```bash
 Приложение будет доступно по адресу: http://localhost:5173
-
+```
 5. **Для production cборки**:
 ```bash
 npm run build
